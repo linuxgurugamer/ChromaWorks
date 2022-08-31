@@ -1,4 +1,13 @@
-
+2.0.0
+	Adoption by Linuxgurugamer
 	Added bulkheadProfiles to all parts
 	Removed BreakingForce from all chips
 	Added tags to all parts
+	Merged in a number of MM patches to save time
+	Added Readme.md
+	Added version file
+
+2.0.0.1
+	Fixed stackable computer core by reducing torque and added in EC usage
+	Removed ddsified files
+
