@@ -11,7 +11,7 @@
 	Fixed stackable computer core by reducing torque and added in EC usage
 	Removed ddsified files
 
-2.0.1 (unreleased)
+2.0.1 
 	Deleted duplicated part name in the KIS.cfg
 	Commented out the references to the old mod neverUnload, since it
 		hasn't been around since 2013
