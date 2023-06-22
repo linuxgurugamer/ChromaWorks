@@ -11,3 +11,23 @@
 	Fixed stackable computer core by reducing torque and added in EC usage
 	Removed ddsified files
 
+2.0.1 (unreleased)
+	Deleted duplicated part name in the KIS.cfg
+	Commented out the references to the old mod neverUnload, since it
+		hasn't been around since 2013
+	Moved missing cfg files into a MM_Patches directory
+	Updated some of the NEEDS tags
+
+	Updated CKAN to list all supported mods:
+
+		BDArmoryContinued	
+		Graphotron
+		InterstellarTechnologies
+		KAS
+		KerbalEngineer
+		MechJeb2
+		RemoteTech
+		ScanSAT
+		TarsierSpaceTech
+		kOS
+
