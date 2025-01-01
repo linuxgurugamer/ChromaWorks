@@ -31,3 +31,6 @@
 		TarsierSpaceTech
 		kOS
 
+2.0.1.2
+	Updated version file to use github for new version info
+	Added README-WEB.md with copy of web page
