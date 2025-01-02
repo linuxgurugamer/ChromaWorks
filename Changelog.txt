@@ -35,3 +35,4 @@
 	Updated version file to use github for new version info
 	Added README-WEB.md with copy of web page
 	Fixed syntax error in part compChip_B9_info, countDownDuration was 30f when it should be just 30
+	Removed extra bulkheadProfiles line from compCore part
